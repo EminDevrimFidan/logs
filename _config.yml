@@ -2,7 +2,7 @@
 title: "Logs"
 description: "logs from Emin Devrim Fidan"
 baseurl: "/logs" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "https://emindevrimfidan.github.io/logs"
+url: "https://emindevrimfidan.github.io"
 author: "Emin Devrim Fidan"
 
 # Build settings
